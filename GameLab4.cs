@@ -6,7 +6,7 @@ using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Input;
 
-namespace OpenTK_Lab1
+namespace OpenTK_Lab
 {
     public class GameLab4 : GameWindow
     {

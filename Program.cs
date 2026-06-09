@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OpenTK_Lab1
+namespace OpenTK_Lab
 {
     class Program
     {

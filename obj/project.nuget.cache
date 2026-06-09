@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "q+wwOkbuTrE=",
+  "dgSpecHash": "AZ0XXxWslFQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\egorb\\Documents\\OpenTK_Lab1\\OpenTK_Lab1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\egorb\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.9\\microsoft.net.illink.tasks.10.0.9.nupkg.sha512",
     "C:\\Users\\egorb\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
     "C:\\Users\\egorb\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
-    "C:\\Users\\egorb\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512"
+    "C:\\Users\\egorb\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512",
+    "C:\\Users\\egorb\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.9\\microsoft.netcore.app.runtime.win-x64.10.0.9.nupkg.sha512",
+    "C:\\Users\\egorb\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.9.nupkg.sha512",
+    "C:\\Users\\egorb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.9\\microsoft.aspnetcore.app.runtime.win-x64.10.0.9.nupkg.sha512"
   ],
   "logs": []
 }

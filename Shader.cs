@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using OpenTK.Graphics.OpenGL;
 
-namespace OpenTK_Lab1
+namespace OpenTK_Lab
 {
     public class Shader : IDisposable
     {

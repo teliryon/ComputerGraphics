@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using OpenTK.Graphics.OpenGL;
 
-namespace OpenTK_Lab1
+namespace OpenTK_Lab
 {
     public class Texture : IDisposable
     {
