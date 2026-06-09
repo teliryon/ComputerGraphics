@@ -6,9 +6,9 @@ using OpenTK.Input;
 
 namespace OpenTK_Lab1
 {
-    public class Game : GameWindow
+    public class GameLab1 : GameWindow
     {
-        public Game(int width, int height, string title) 
+        public GameLab1(int width, int height, string title) 
             : base(width, height, GraphicsMode.Default, title) 
         { 
         }
