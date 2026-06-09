@@ -52,7 +52,10 @@
             },
             "OpenTK": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.0, )",
+              "noWarn": [
+                "NU1701"
+              ]
             },
             "System.Drawing.Common": {
               "target": "Package",
